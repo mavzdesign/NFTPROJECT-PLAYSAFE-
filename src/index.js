@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import './indexNft.css';
-import './index.css';
+import './indexNft.css';
+// import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import './indexNft.css'
+// import './indexNft.css'
 
 ReactDOM.render(
   <React.StrictMode>
